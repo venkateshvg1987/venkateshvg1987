@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @venkateshvg1987
 - 👀 I’m interested in Web application Development
-- 🌱 I’m currently learning Spring Reactive Programming
 - 📫 How to reach me : venkateshvg1987@gmail.com
 
 <!---
